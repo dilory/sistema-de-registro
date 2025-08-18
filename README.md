@@ -5,3 +5,5 @@
 Para ejecutar el sistema debe sponer: 
 
 ```npm install react```
+
+Sistema de Registro 2
